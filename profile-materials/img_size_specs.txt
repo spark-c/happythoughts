@@ -1,0 +1,2 @@
+avatar 400x400px
+banner 1500x500px
